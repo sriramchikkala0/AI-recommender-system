@@ -1,5 +1,3 @@
----
-
 # 🌌 AI Recommender System
 
 > A futuristic AI-powered recommendation system with a *Flask backend* and a *React + MUI frontend*, featuring a galaxy-inspired professional UI.
